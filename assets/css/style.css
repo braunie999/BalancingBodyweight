@@ -8,3 +8,31 @@
     box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
 }
+
+/* General Style */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato' sans-serif;
+    color: black;
+}
+
+/* Header */
+header {
+    background-color: #b14242;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+main {
+    margin-top: 100px;
+    border: 1px solid blue;
+    flex-grow: 1;
+}
