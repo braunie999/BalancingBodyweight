@@ -6,12 +6,11 @@ Welcome to **Calisthenics Hub**! This website is dedicated to promoting the art 
 
 - [Aboutisthenics](#about-calisthenics)
 - [Features](#features)
-- [Getting](#getting-started)
 - [Contact](#contact)
 
 ## About Calisthenics
 
-Calisthenics is a form of training that utilizes the weight of your own body to build muscle and improve overall fitness. It encompasses a variety of exercises, including push-ups, pull-ups, squats, and, allowing you train anywhere, anytime. Our mission is to provide valuable information and a supportive community for interested in calisthenics.
+Calisthenics is a form of training that utilizes the weight of your own body to build muscle and improve overall fitness. It encompasses a variety of exercises, including push-ups, pull-ups, squats, and, allowing you train anywhere, anytime. Our mission is to provide valuable information and a supportive community for those interested in calisthenics.
 
 ## Features
 
@@ -20,12 +19,6 @@ Calisthenics is a form of training that utilizes the weight of your own body to 
 - **Nutrition Tips**: Information on diet and nutrition to complement your training.
 - **Community Forum**: A space for to connect, share experiences, and ask questions.
 - **Progress Tracking**: Tools to help you track your progress and stay motivated.
-
-## Getting Started
-
-1. **Explore Tutorials**: Check out our tutorial section to learn new exercises.
-2. **Join the Forum**: Engage with others, share your journey, and ask for advice.
-3. **Start Training**: Follow a workout plan that fits your level and goals.
 
 ## Contact
 
