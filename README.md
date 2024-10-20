@@ -17,7 +17,6 @@ Calisthenics is a form of training that utilizes the weight of your own body to 
 - **Workout Plans**: Tailored workout plans for beginners, intermediates, and advanced practitioners.
 - **Tutorials**: Step-by-step guides for various calisthenics exercises, complete with tips on form and progression.
 - **Nutrition Tips**: Information on diet and nutrition to complement your training.
-- **Community Forum**: A space for to connect, share experiences, and ask questions.
 - **Progress Tracking**: Tools to help you track your progress and stay motivated.
 
 ## Contact
