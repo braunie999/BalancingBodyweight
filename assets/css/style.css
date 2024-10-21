@@ -37,6 +37,10 @@ header a {
     color: inherit; 
 }
 
+header i {
+    color: darkslategray;
+}
+
 /* Navbar toggle style with dropdown toggle */
 nav {
     position: absolute;
@@ -75,3 +79,24 @@ footer {
     background-color: #f6f5f3;
     text-align: center;
 }
+
+.footer-bar {
+    letter-spacing: 1px;
+    font-size: medium;
+    padding-bottom: 5px;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
