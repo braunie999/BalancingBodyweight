@@ -68,3 +68,10 @@ main {
     border: 1px solid blue;
     flex-grow: 1;
 }
+
+/* Footer */
+footer {
+    width: 100%;
+    background-color: #f6f5f3;
+    text-align: center;
+}
