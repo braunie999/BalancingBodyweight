@@ -78,12 +78,15 @@ footer {
     background-color: #f6f5f3;
     text-align: center;
     list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #social-networks {
     text-align: center;
     padding: 20px 0;
-    justify-content: space-evenly;
+    color: darkslategray;
 }
 
 #social-networks i {
@@ -91,7 +94,8 @@ footer {
     padding: 5%;
     color:darkslategray;
     align-items: center;
-    display: block;
+    display: flex;
+    justify-content: space-evenly
 }
 
 .footer-bar {
