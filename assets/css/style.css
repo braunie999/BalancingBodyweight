@@ -76,32 +76,34 @@ main {
 /* Footer */
 footer {
     background-color: #f6f5f3;
-    text-align: center;
     list-style-type: none;
+    text-align: center;
     display: flex;
-    justify-content: center;
-    align-items: center;
-}
+}s
 
 #social-networks {
     text-align: center;
-    padding: 20px 0;
-    color: darkslategray;
+    padding: 10px 25px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
 #social-networks i {
-    font-size: 160%;
-    padding: 5%;
-    color:darkslategray;
-    align-items: center;
-    display: flex;
-    justify-content: space-evenly
+    font-size: 200%;
+    padding: 10%;
+    color: darkslategrey;
 }
 
 .footer-bar {
     letter-spacing: 1px;
-    font-size: medium;
     padding-bottom: 5px;
+    display: block;
     text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
 }
 
