@@ -78,11 +78,34 @@ nav {
 
 /* Main content */ 
 main {
-    margin-top: 70px;
+    margin-top: 49px;
     border: 2px groove gray;
     flex-grow: 1;
 }
 
+/* Hero section */
+#hero {
+    height: 400px;
+    width: 100%;
+    background: url("../images/yoga-pose.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    /* Final rgba value sets the opacity so it is semi-transparent */
+    background-color: rgba(241, 109, 107, .7);
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: #ffffff;
+}
 /* Footer */
 footer {
     background-color: #ede3e3;
