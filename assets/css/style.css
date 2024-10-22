@@ -22,7 +22,7 @@ body {
 /* Header */
 header {
     background-color: #f6f5f3;
-    padding: 0 1rem; 
+    padding: 0 2rem; 
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -39,6 +39,16 @@ header a {
 
 header i {
     color: darkslategray;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
 }
 
 /* Navbar toggle style with dropdown toggle */
@@ -68,36 +78,28 @@ nav {
 
 /* Main content */ 
 main {
-    margin-top: 78px;
-    border: 1px solid blue;
+    margin-top: 70px;
+    border: 2px groove gray;
     flex-grow: 1;
 }
 
 /* Footer */
 footer {
-    background-color: #f6f5f3;
-    list-style-type: none;
+    background-color: #ede3e3;
     text-align: center;
-    display: flex;
-}s
+    letter-spacing: 1px;
+}
 
 #social-networks {
     text-align: center;
-    padding: 10px 25px;
-    display: block;
+    padding: 20px 0;
+    display: flex;
     justify-content: space-evenly;
     list-style-type: none;
 }
 
 #social-networks i {
-    font-size: 200%;
-    padding: 10%;
-    color: darkslategrey;
+    font-size: 160%;
+    padding: 5%;
+    color: darkslategray;
 }
-
-.footer-bar {
-    letter-spacing: 1px;
-    padding-bottom: 5px;
-    text-align: center;
-}
-
