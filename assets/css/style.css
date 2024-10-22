@@ -118,6 +118,7 @@ main {
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
+    text-transform: capitalize;
 }
 
 #benefits-to-start>div,
@@ -154,7 +155,7 @@ main {
 
 /* group levels and meet-up times section */
 #times {
-    background: url('../images/dublin-city.webp') no-repeat center/cover;
+    background: url('../images/meet-ups.jpg') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
@@ -182,7 +183,7 @@ main {
 footer {
     background-color: #ede3e3;
     text-align: center;
-    letter-spacing: 1px;
+    letter-spacing: 1px; 
 }
 
 #social-networks {
