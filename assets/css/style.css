@@ -29,8 +29,7 @@ header {
     box-shadow: 0 2px 2px #ede3e3;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
-    text-transform: uppercase; 
+    align-items: baseline; 
 }
 
 header a {
@@ -60,7 +59,6 @@ nav {
     left: 0;
     padding: 0 1.2rem;
     box-shadow: 0 2.2px 2.2px #ede3e3;
-    display: none;
     top: 100%;
 }
 
@@ -69,7 +67,8 @@ nav {
 }
 
 #nav-toggle {
-    display: none;
+   display: flex;
+   list-style-type: none;
 }
 
 .nav-toggle-label {
@@ -81,7 +80,7 @@ nav {
 main {
     margin-top: 49px;
     border: 2px groove gray;
-    flex-grow: 1;
+    flex-grow: 1 0 auto;
 }
 
 /* Hero section */
@@ -108,6 +107,51 @@ main {
     color: #ffffff;
     font-style: italic;
 }
+
+/* Reasons section */
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#benefits-to-start>div,
+#physical-benefits>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p {
+    padding: 0 20px;
+}
+
+#benefits hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
+#circle-cover-bg {
+    background: url('../images/yogamat.jpg') no-repeat top center / cover;
+    height: 70vw;
+    width: 70vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 45%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Footer */
 footer {
     background-color: #ede3e3;
