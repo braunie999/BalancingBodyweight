@@ -87,19 +87,19 @@ main {
 #hero {
     height: 400px;
     width: 100%;
-    background: url("../images/yoga-pose.jpg") no-repeat center center/cover;
+    background: url("../images/hero.jpg") no-repeat center center/cover;
     position: relative;
 }
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: rgba(241, 109, 107, .7);
-    font-size: 130%;
+    background-color: rgba(107, 241, 232, 0.5);
+    font-size: 115%;
     position: absolute;
-    bottom: 30px;
-    width: 80%;
-    min-height: 200px;
-    padding-top: 40px;
+    top: 5.0px;
+    width: 50%;
+    min-height: 120px;
+    padding-top: 20px;
     padding-left: 10px;
 }
 
