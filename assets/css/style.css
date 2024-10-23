@@ -37,6 +37,12 @@ header a {
     color: inherit;
 }
 
+#logo {
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.8px;
+}
+
 header i {
     color: darkslategray;
 }
