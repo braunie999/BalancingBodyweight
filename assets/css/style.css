@@ -93,7 +93,7 @@ nav {
 main {
     margin-top: 25px;
     border: 2px groove gray;
-    flex-grow: 1 0 auto;
+    flex: 1 
 }
 
 /* Hero section */
