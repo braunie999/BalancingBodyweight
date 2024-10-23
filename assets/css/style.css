@@ -48,13 +48,17 @@ header i {
 }
 
 #menu {
-    font-size: 110%;
-    letter-spacing: 2px;
+    font-size: 105%;
+    letter-spacing: 2.5px;
     list-style-type: none;
 }
 
 #menu > li {
     margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #252525;
 }
 
 /* Navbar toggle style with dropdown toggle */
