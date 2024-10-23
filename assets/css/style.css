@@ -26,7 +26,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2.5px 2px lightgray;
+    box-shadow: 0 2.5px 2px #2b281f;
     display: flex;
     justify-content: space-between;
     align-items: baseline; 
@@ -68,7 +68,7 @@ nav {
     width: 100%;
     left: 0;
     padding: 0 1.2rem;
-    box-shadow: 0 2.2px 2.2px #ede3e3;
+    box-shadow: 0 2.2px 2.2px #2b281f;
     top: 100%;
 }
 
