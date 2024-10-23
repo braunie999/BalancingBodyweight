@@ -38,7 +38,7 @@ header a {
 }
 
 #logo {
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 0.8px;
 }
@@ -68,7 +68,7 @@ nav {
     width: 100%;
     left: 0;
     padding: 0 1.2rem;
-    box-shadow: 0 2.2px 2.2px #aba89e;
+    box-shadow: 0 2.2px 1.9px #aba89e;
     display: none;
     top: 100%;
 }
@@ -89,7 +89,7 @@ nav {
 
 /* Main content */ 
 main {
-    margin-top: 49px;
+    margin-top: 25px;
     border: 2px groove gray;
     flex-grow: 1 0 auto;
 }
