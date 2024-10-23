@@ -38,9 +38,17 @@
 
     <!-- Main content here -->
      <main>
-        <form action="thankyou.html" method="get">
-            <label for="email" >Email</label>
-            <input type="email" name="email">
+        <form action="thankyou.html" method="get" id="signup">
+            <h2>SIGN UP HERE!</h2>
+            <label for="first-name">First Name</label>
+                <input type="text" name="first_name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last_name" id="last-name" class="text-input" required>
+                <br>
+                <label for="email-address">Email Address</label>
+                <input type="email" name="email_address" id="email-address" class="text-input" required>
+                <br>
             <input type="submit" value="send">
         </form>
      </main>
