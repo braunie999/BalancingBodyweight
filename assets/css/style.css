@@ -37,10 +37,12 @@ header a {
     color: inherit;
 }
 
-#logo {
+h1#logo {
     text-transform: capitalize;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 0.8px;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 
 header i {
