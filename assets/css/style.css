@@ -19,6 +19,17 @@ body {
     color: black;
 }
 
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    color: #2b281f;
+    text-transform: capitalize;
+}
+
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #f6f5f3;
@@ -131,6 +142,7 @@ main {
     text-align: center;
     font-size: 280%;
     text-transform: capitalize;
+    color: black;
 }
 
 #reasons-to-start>div,
@@ -143,7 +155,7 @@ main {
     padding: 10px 20px;
 }
 
-#benefits hr {
+#benefits {
     border-top: 1px solid lightslategray;
     margin: 5px 0;
 }
@@ -168,13 +180,10 @@ main {
 /* group levels  */
 section> h2 {
     color: #fff;
-    text-transform: uppercase;
     text-align: center;
-    text-decoration: underline;
     display: flex;
-    align-items: center;
-    display: none;
 }
+
 #levels {
     background: url('../images/meet-ups.jpg') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
@@ -182,9 +191,10 @@ section> h2 {
     flex-wrap: wrap;
 }
 
-#level-difficulty {
+#level-difficulty div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
+    padding: 20px;
     text-align: center;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
