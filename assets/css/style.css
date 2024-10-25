@@ -38,7 +38,6 @@ header a {
 }
 
 h1#logo {
-    text-transform: capitalize;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 0.8px;
     font-size: 20px;
@@ -183,15 +182,10 @@ section> h2 {
     flex-wrap: wrap;
 }
 
-div> h3 {
-    text-align: center;
-
-}
-#level-difficulty div {
+#level-difficulty {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
-    padding: 0 47px;
-    text-align: left;
+    text-align: center;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
     flex-basis: 200px;
