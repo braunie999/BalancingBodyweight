@@ -178,11 +178,6 @@ main {
 }
 
 /* group levels  */
-section> h2 {
-    color: #fff;
-    text-align: center;
-    display: flex;
-}
 
 #levels {
     background: url('../images/meet-ups.jpg') no-repeat center/cover;
