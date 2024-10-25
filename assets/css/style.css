@@ -166,7 +166,7 @@ main {
     justify-content: center;
 }
 
-/* group levels and meet-up times section */
+/* group levels  */
 section> h2 {
     color: #fff;
     text-transform: uppercase;
@@ -174,7 +174,7 @@ section> h2 {
     text-decoration: underline;
     display: flex;
     align-items: center;
-   
+    display: none;
 }
 #levels {
     background: url('../images/meet-ups.jpg') no-repeat center/cover;
@@ -183,11 +183,15 @@ section> h2 {
     flex-wrap: wrap;
 }
 
+div> h3 {
+    text-align: center;
+
+}
 #level-difficulty div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
-    padding: 15px;
-    text-align: center;
+    padding: 0 47px;
+    text-align: left;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
     flex-basis: 200px;
