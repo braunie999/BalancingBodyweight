@@ -149,6 +149,12 @@ main {
 #physical-benefits>div {
     line-height: 20px;
     margin-bottom: 20px;
+    /* Allows items to grow and shrink. Sets base width to 45% */
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 45%;
+     /* Ensures padding border are included in width */
+     box-sizing: border-box;
 }
 
 #benefits p {
@@ -158,6 +164,10 @@ main {
 #benefits {
     border-top: 1px solid lightslategray;
     margin: 5px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
 }
 
 #circle-cover-bg {
@@ -175,6 +185,9 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+    /* This will take full width */
+    flex: 1 1 100%;
+    margin: 10px;
 }
 
 /* group levels  */
