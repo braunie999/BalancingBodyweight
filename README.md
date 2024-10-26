@@ -1,6 +1,6 @@
 # Balancing Bodyweight
 
-![image of site](link to image) - use an image from AmIResponsive that shows the site on multiple devices
+ use an image from AmIResponsive that shows the site on multiple devices
 
 ## Introduction
 
