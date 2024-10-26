@@ -39,7 +39,7 @@ header {
     width: 100%;
     box-shadow: 0 2.5px 2px #2b281f;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: baseline; 
 }
 

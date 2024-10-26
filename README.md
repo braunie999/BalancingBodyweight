@@ -1,6 +1,6 @@
 # Balancing Bodyweight
 
-
+[My image](../BalancingBodyweight/assets/images/buggedresponsive-display.pngimages/bugged)
 
 ## Introduction
 
