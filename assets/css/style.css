@@ -187,7 +187,6 @@ main {
     justify-content: center;
     /* This will take full width */
     flex: 1 1 100%;
-    margin: 10px;
 }
 
 /* group levels  */
@@ -195,7 +194,7 @@ main {
 #levels {
     background: url('../images/meet-ups.jpg') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
-    display: flex;
+    
     flex-wrap: wrap;
     justify-content: space-around;
 }
