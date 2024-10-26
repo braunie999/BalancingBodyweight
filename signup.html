@@ -38,9 +38,10 @@
 
     <!-- Main content here -->
      <main>
-        <form action="thankyou.html" method="get" id="signup">
-            <h2>SIGN UP HERE!</h2>
-            <label for="first-name">First Name</label>
+        <section>
+            <form action="thankyou.html" method="get" id="signup">
+                <h2>SIGN UP HERE!</h2>
+                <label for="first-name">First Name</label>
                 <input type="text" name="first_name" id="first-name" class="text-input" required>
                 
                 <label for="last-name">Last Name</label>
@@ -49,7 +50,32 @@
                 <label for="email-address">Email Address</label>
                 <input type="email" name="email_address" id="email-address" class="text-input" required>
             
-            <input type="submit" value="send">
+                <input type="submit" value="send">
+                <div class="radio-buttons">
+                    <div>
+                        <label for="beginner">Beginner</label>
+                        <input type="radio" name="fitness_level" id="beginner" value="beginner" required checked>
+                    </div>
+                    <div>
+                        <label for="intermediate">Intermediate</label>
+                        <input type="radio" name="fitness_level" id="intermediate" value="intermediate" required>
+                    </div>
+                    <div>
+                        <label for="advanced">Advanced</label>
+                        <input type="radio" name="fitness_level" id="advanced" value="advanced" required>
+                    </div>
+                    <div>
+                        <label for="elite">Elite</label>
+                        <input type="radio" name="fitness_level" id="elite" value="elite" required>
+                    </div>
+                    <div>
+                        <label for="master">Master</label>
+                        <input type="radio" name="fitness_level" id="master" value="master" required>
+                    </div>
+                </div>
+            <button type="submit" class="join-button">Lets go</button>
+        </form>
+    </section>
         </form>
      </main>
 
