@@ -191,7 +191,7 @@ main {
 /* group levels  */
 
 #levels {
-    background: url('../images/meet-ups.jpg') no-repeat center/cover;
+    background: url('../images/levels.jpg') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     
     flex-wrap: wrap;
