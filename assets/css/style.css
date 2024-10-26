@@ -101,7 +101,7 @@ nav {
 
 /* Main content */ 
 main {
-    margin-top: 74px;
+    margin-top: 59px;
     border: 2px groove gray;
     flex: 1;
 }
@@ -247,6 +247,7 @@ main {
     border: 1px solid #0a0808;
     border-radius: 2px;
     padding: 0 5px;
+    box-sizing: border-box;
 }
 
 .radio-buttons {
