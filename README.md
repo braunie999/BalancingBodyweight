@@ -46,15 +46,11 @@ To view the website:
 - HTML5  
 - CSS (linked externally)  
 - Font Awesome for icons  
-
-## License  
-
-This project is licensed under the MIT License - see the LICENSE file for details.  
-
+ 
 ## Author  
 
 © 2024 Kiara Braun  
 
 ## Contact  
 
-For inquiries or feedback, please reach out via [GitHub](https://github.com/yourusername).  
+For inquiries or feedback, please reach out via [GitHub](https://github.com/braunie999).  
