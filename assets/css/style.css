@@ -103,7 +103,7 @@ nav {
 main {
     margin-top: 59px;
     border: 2px groove gray;
-    flex: 1 
+    flex: 1;
 }
 
 /* Hero section */
@@ -184,19 +184,21 @@ main {
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 #level-difficulty div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
+    margin: 5px;
     padding: 20px;
     text-align: center;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
-    
-    flex: 1 0 200px;
+    flex-basis: 200px;
+    flex-grow: 1;
     /* Creates a grid of meetup time divs over the background image */
-    border: 2px solid white;
+    border: 1.8px solid white;
 }
 
 #level-difficulty h3 {
@@ -214,7 +216,7 @@ footer {
 
 #social-networks {
     text-align: center;
-    padding: 4px 0;
+    padding: 16px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
