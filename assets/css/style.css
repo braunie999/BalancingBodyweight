@@ -53,6 +53,7 @@ h1#logo {
     letter-spacing: 0.8px;
     font-size: 20px;
     text-transform: uppercase;
+    padding-right:26px ;
 }
 
 header i {
