@@ -4,7 +4,16 @@
 
 ## Introduction
 
-What is the project about, why did you make it
+The website "Balancing Bodyweight" focuses on calisthenics, a form of exercise that utilizes body weight for resistance training. It aims to promote fitness for all levels, from beginners to advanced athletes, emphasizing the following key points:
+
+1. **Minimal Equipment Required**: Calisthenics can be performed with little to no equipment, making it accessible for everyone, whether at home, in a park, or while traveling.
+
+2. **Improves Functional Strength**: The exercises engage multiple muscle groups, enhancing overall strength, coordination, balance, and flexibility, which can make daily activities easier.
+
+3. **Progressive and Adaptable**: The exercises can be modified to suit different fitness levels, allowing individuals to progressively increase difficulty and challenge themselves over time.
+
+Overall, the site encourages users to find their balance and elevate their strength through bodyweight training.
+
 
 ## Table of Contents
 
