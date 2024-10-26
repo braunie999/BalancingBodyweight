@@ -38,7 +38,7 @@ The website is structured using HTML5 semantics with sections dedicated to navig
 To view the website:  
 
 1. Clone the repository.  
-2. Open `index.html` in your web browser.  
+2. Open (<https://braunie999.github.io/BalancingBodyweight/>) in your web browser.  
 3. Explore the various sections and gain insights into bodyweight training.  
 
 ## Technologies Used  
@@ -46,7 +46,7 @@ To view the website:
 - HTML5  
 - CSS (linked externally)  
 - Font Awesome for icons  
- 
+
 ## Author  
 
 © 2024 Kiara Braun  
