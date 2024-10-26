@@ -39,7 +39,7 @@ header {
     width: 100%;
     box-shadow: 0 2.5px 2px #2b281f;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: baseline; 
 }
 
@@ -70,7 +70,7 @@ header i {
 }
 
 .active {
-    border-bottom: 1px solid #252525;
+    border-bottom: 1px solid #191717;
 }
 
 /* Navbar toggle style with dropdown toggle */
@@ -214,13 +214,16 @@ main {
     text-decoration: underline;
 }
 
+/* Gallery */
+
 /* Form */
 #signup {
     background-image: url("../images/signup.jpg");
     background-size: cover;
-    background-position: %;
+    background-position: 100%;
     background-attachment: scroll;
     padding: 20px 10% 0 10%;
+    display: local;
     flex-grow: 1;
 }
 
@@ -231,14 +234,14 @@ main {
 }
 
 #signup-form>h2 {
-    color: #0a0808;
+    color: #fcfcfc;
     margin-bottom: 20px;
     box-shadow: #454b1b;
 }
 
 .text-input {
     background: rgba(105, 98, 98, 0.6);
-    color: #0a0808;
+    color: #fdfcfc;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
