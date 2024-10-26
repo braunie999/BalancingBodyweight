@@ -145,20 +145,14 @@ main {
     color: black;
 }
 
-#reasons-to-start>div,
-#physical-benefits>div {
+#reasons-to-start > div,
+#physical-benefits > div {
     line-height: 20px;
     margin-bottom: 20px;
-    /* Allows items to grow and shrink. Sets base width to 45% */
-    flex-grow: 1;
-    flex-shrink: 1;
-    flex-basis: 45%;
-     /* Ensures padding border are included in width */
-     box-sizing: border-box;
 }
 
 #benefits p {
-    padding: 10px 20px;
+    padding: 0  20px;
 }
 
 #benefits {
@@ -172,10 +166,10 @@ main {
 
 #circle-cover-bg {
     background: url('../images/yogamat.jpg') no-repeat top center / cover;
-    height: 70vw;
-    width: 70vw;
+    height: 95vw;
+    width: 95vw;
     margin-bottom: 20px;
-    /* Makes the square image into a circle */
+    /* Give square image circlular edges */
     border-radius: 45%;
     max-width: 300px;
     max-height: 300px;
@@ -187,6 +181,11 @@ main {
     justify-content: center;
     /* This will take full width */
     flex: 1 1 100%;
+}
+
+#reasons-to-stat > div {
+    text-align: end;
+    align-self: flex-end;
 }
 
 /* group levels  */
