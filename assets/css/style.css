@@ -132,11 +132,6 @@ main {
 }
 
 /* Reasons section */
-#reasons {
-    width: 90%;
-    margin: 20px auto;
-}
-
 #reasons h2 {
     margin-bottom: 20px;
     text-align: center;
@@ -156,12 +151,13 @@ main {
 }
 
 #reasons {
-    border-top: 1px solid lightslategray;
     margin: 5px 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 20px;
+    width: 90%;
+        
 }
 
 #circle-cover-bg {
