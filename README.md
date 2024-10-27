@@ -2,6 +2,7 @@
 
 ![Responsice Mockup](https://github.com/braunie999/BalancingBodyweight/../main/assets/images/buggeresponsive-display.png)
 s
+
 ## Introduction
 
 The website "Balancing Bodyweight" focuses on calisthenics, a form of exercise that utilizes body weight for resistance training. It aims to promote fitness for all levels, from beginners to advanced athletes. Our mission is to provide accessible and adaptable workout options that help users improve their strength, coordination, and body awareness.  
@@ -50,8 +51,12 @@ Welcoming section with a motivational tagline.
 
   - User registration for personalized training plans.  
 
-
 ![Sign Up][def7]
+
+### Features Left to Implement
+
+-Add-on to sign up form, making it to capture more user details in for optimal user experience.
+
 
 ## HTML Structure  
 
@@ -87,4 +92,3 @@ To view the website:
 ## Contact  
 
 For inquiries or feedback, please reach out via [GitHub](https://github.com/braunie999).  
-
