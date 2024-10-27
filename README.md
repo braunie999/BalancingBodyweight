@@ -1,6 +1,6 @@
 # Balancing Bodyweight
 
-![Responsice Mockup](https://github.com/braunie999/BalancingBodyweight/../main/assets/images/buggeresponsive-display.png)
+![Response Mockup](https://github.com/braunie999/BalancingBodyweight/../main/assets/images/buggeresponsive-display.png)
 s
 
 ## Introduction
@@ -13,13 +13,16 @@ Overall, the site encourages users to find their balance and elevate their stren
 ### Exisiting Features
 
 - __Navigation Bar__
+- This is featured across all three pages with links to the Logo, Home page, Gallery and Sign Up page making it fully responsive and easy to navigate on site.
+- this feature allows users to navigtae seamlessly from page to page on all viewing devices   
 
-![Nav Bar][def6]
+
+![Nav Bar]((https://braunie999.github.io/BalancingBodyweight/main/assets/images/))
 
 - __The landing page image__
 Welcoming section with a motivational tagline.  
 
-![Landing Page][def5]
+![Landing Page]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __Why calisthenics section__
 
@@ -28,35 +31,34 @@ Welcoming section with a motivational tagline.
 - __Progressive and Adaptable__: Modify exercises to suit your fitness level and progressively challenge yourself.  
 - __Levels of Training__: Explore structured workouts for various levels (Beginner, Intermediate, Advanced, Elite, Master).  
 
-![Ethos][def4]
+![Ethos]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __Difficulty Level__
 
-![Difficutly Levels][def2]
+![Difficutly Levels]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __The Footer__
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
+  - The footer section includes links to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer][def]
+![Footer]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __Gallery__
 
   Visual representation of workouts and achievements.  
 
-![Gallery][def3]
+![Gallery]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __The Sign Up Page__
 
   - User registration for personalized training plans.  
 
-![Sign Up][def7]
+![Sign Up]((https://braunie999.github.io/BalancingBodyweight/))
 
 ### Features Left to Implement
 
 -Add-on to sign up form, making it to capture more user details in for optimal user experience.
-
 
 ## HTML Structure  
 
