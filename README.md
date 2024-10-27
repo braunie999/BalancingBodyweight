@@ -13,8 +13,9 @@ Overall, the site encourages users to find their balance and elevate their stren
 
   -__Navigation Bar__
 
-- This is featured across all three pages with links to the Logo, Home page, Gallery and Sign Up page making it fully responsive and easy to navigate on site.
-- this feature allows users to navigtae seamlessly from page to page on all viewing devices
+- Simple navigation, clear categories, and a responsive design for mobile users.  
+
+- This is featured across all three pages with links to the Logo, Home, Gallery and Sign Up page making it fully responsive and easy to navigate on site across pages within window and not push the back button to get to previous page.
 
 ![Nav Bar]((https://braunie999.github.io/BalancingBodyweight/main/assets/images/))
 
