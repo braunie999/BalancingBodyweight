@@ -11,13 +11,15 @@ Overall, the site encourages users to find their balance and elevate their stren
 
 ### Exisiting Features
 
-- __Navigation Bar__
+  -__Navigation Bar__
+
 - This is featured across all three pages with links to the Logo, Home page, Gallery and Sign Up page making it fully responsive and easy to navigate on site.
 - this feature allows users to navigtae seamlessly from page to page on all viewing devices
 
 ![Nav Bar]((https://braunie999.github.io/BalancingBodyweight/main/assets/images/))
 
-- __The landing page image__
+  -__The landing page image__
+
 - The introduction image and fiting text to go with the theme of the web application.
   
 ![Landing Page]((https://braunie999.github.io/BalancingBodyweight/))
@@ -32,6 +34,12 @@ Overall, the site encourages users to find their balance and elevate their stren
 ![Benefits]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __Difficulty Level__
+- __Levels of Calisthenics__
+  - __Beginner:__ Basic exercises, and tips.
+  - __Intermediate:__ More complex movements.
+  - __Advanced:__ High-level skills.
+  - __Elite:__ Master challenging movements and advanced techniques.
+  - __Master:__ Achieving pick performance and creating own movement combinations .
 
 ![Difficutly Levels]((https://braunie999.github.io/BalancingBodyweight/))
 
@@ -56,7 +64,7 @@ Overall, the site encourages users to find their balance and elevate their stren
 
 ### Features Left to Implement
 
--Add-on to sign up form, making it to capture more user details in for optimal user experience.
+- Add-on to sign up form, making it to capture more user details in for optimal user experience.
 
 ## HTML Structure  
 
