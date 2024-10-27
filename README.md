@@ -1,7 +1,6 @@
 # Balancing Bodyweight
 
 ![Response Mockup](https://github.com/braunie999/BalancingBodyweight/../main/assets/images/buggeresponsive-display.png)
-s
 
 ## Introduction
 
@@ -14,24 +13,23 @@ Overall, the site encourages users to find their balance and elevate their stren
 
 - __Navigation Bar__
 - This is featured across all three pages with links to the Logo, Home page, Gallery and Sign Up page making it fully responsive and easy to navigate on site.
-- this feature allows users to navigtae seamlessly from page to page on all viewing devices   
-
+- this feature allows users to navigtae seamlessly from page to page on all viewing devices
 
 ![Nav Bar]((https://braunie999.github.io/BalancingBodyweight/main/assets/images/))
 
 - __The landing page image__
-Welcoming section with a motivational tagline.  
-
+- The introduction image and fiting text to go with the theme of the web application.
+  
 ![Landing Page]((https://braunie999.github.io/BalancingBodyweight/))
 
-- __Why calisthenics section__
+- __Benefits section__
 
 - __Minimal Equipment Required__: Perform exercises anywhere with little to no equipment.  
 - __Functional Strength Improvement__: Engage multiple muscle groups to enhance everyday strength and flexibility.  
 - __Progressive and Adaptable__: Modify exercises to suit your fitness level and progressively challenge yourself.  
 - __Levels of Training__: Explore structured workouts for various levels (Beginner, Intermediate, Advanced, Elite, Master).  
 
-![Ethos]((https://braunie999.github.io/BalancingBodyweight/))
+![Benefits]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __Difficulty Level__
 
@@ -46,13 +44,13 @@ Welcoming section with a motivational tagline.
 
 - __Gallery__
 
-  Visual representation of workouts and achievements.  
+  Visual representation of what calisthenics workouts could look like .  
 
 ![Gallery]((https://braunie999.github.io/BalancingBodyweight/))
 
 - __The Sign Up Page__
 
-  - User registration for personalized training plans.  
+- The sign up page allows for users to sign up to gain more information on making one self-sufficient in structuring your own workout plans. this can be set byt being able to specify preferences on what calisthenics level the user is at respectively.  
 
 ![Sign Up]((https://braunie999.github.io/BalancingBodyweight/))
 
