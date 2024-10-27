@@ -1,6 +1,6 @@
 # Balancing Bodyweight
 
-![Response Mockup](https://github.com/braunie999/BalancingBodyweight/../main/assets/images/buggeresponsive-display.png)
+![Response Mockup](./assets/docs/buggedresponsive-display.png)
 
 ## Introduction
 
@@ -17,7 +17,7 @@ Overall, the site encourages users to find their balance and elevate their stren
 
 - This is featured across all three pages with links to the Logo, Home, Gallery and Sign Up page making it fully responsive and easy to navigate on site across pages within window and not push the back button to get to previous page.
 
-![Nav Bar]((https://braunie999.github.io/BalancingBodyweight/main/assets/images/))
+![Nav Bar](./assets/images/elevated-push-up.jpg)
 
   -__The landing page image__
 
@@ -63,6 +63,11 @@ Overall, the site encourages users to find their balance and elevate their stren
 
 ![Sign Up]((https://braunie999.github.io/BalancingBodyweight/))
 
+- __Thank You page__
+
+- The thank you page is a hidden page that has been included to simulate the response from a server when user fills in sign up form. It was done this way as i dont have access to a server to submit the form to.
+- Provides the user with an improved user experience through confirmation that their message has been recieved.
+
 ### Features Left to Implement
 
 - Add-on to sign up form, making it to capture more user details in for optimal user experience.
@@ -79,6 +84,10 @@ The website is structured using HTML5 semantics with sections dedicated to navig
   - Reasons to start calisthenics highlighting various benefits and physical advantages.  
   - Different skill levels providing workout examples and goals.  
 - __Footer__: Social media links and copyright notice.  
+
+## Testing
+### HTML and CSS validation
+[validator results for index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F)
 
 ## Usage  
 

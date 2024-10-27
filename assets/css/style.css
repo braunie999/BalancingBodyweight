@@ -218,11 +218,13 @@ main {
 /* Gallery */
 
 /* Form */
-#signup {
+#sign-up-section {
     background-image: url("../images/signup.jpg");
     background-size: cover;
     background-position: 100%;
     background-attachment: scroll;
+}
+#signup {
     padding: 20px 10% 0 10%;
     display: local;
     flex-grow: 1;
