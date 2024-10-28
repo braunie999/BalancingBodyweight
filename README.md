@@ -125,17 +125,15 @@ The live link can be found here - <https://braunie999.github.io/BalancingBodywei
 ### Media
 
 - Images used on home page all outsourced from open source site Pexel.
-- Images on gallery page as well as my Sign-up and thank-you pages have images from Pexels site.
+- Images on gallery page as well as my Sign-up and thank-you pages have images from Pexels site.[open source site](https://www.pexels.com/)
 
-[open source site](https://www.pexels.com/)
-
-## Technologies Used
+## Technologies Useds
 
 - HTML5
 - CSS (linked externally)
 - Font Awesome for icons
 
-## Author
+## Authors
 
 © 2024 Kiara Braun
 
