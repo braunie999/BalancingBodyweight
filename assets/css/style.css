@@ -269,7 +269,7 @@ main {
 #signup > h2 {
   color: #f1f1f1;
   margin-bottom: 20px;
-  box-shadow: #8b8c86;
+  box-shadow: 2px;
 }
 
 .text-input {

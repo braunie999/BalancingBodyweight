@@ -87,21 +87,21 @@ The website is structured using HTML5 semantics with sections dedicated to navig
   - Different skill levels providing workout examples and goals.
 - **Footer**: Social media links and copyright notice.
 
-## Validator Testing
+## Testing
 
-### HTML
+### HTML Validator
 
-[validator results for index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F)
+- No errors were found when passing through the validator site [validator results for index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F)
 
-[validator results for gallery.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2Fgallery.html)
+- No errors were found, only 1 warning [validator results for gallery.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2Fgallery.html)
 
-[validator results for signup.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2Fsignup.html)
+- No errors or warnings were found [validator results for signup.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2Fsignup.html)
 
-[validator results for thankyou.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2Fthankyou.html)
+- No errors or warnings were found [validator results for thankyou.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2Fthankyou.html)
 
-### CSS
+### CSS validator
 
-[validator results for CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- [validator results for CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
 
