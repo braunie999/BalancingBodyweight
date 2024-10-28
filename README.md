@@ -103,19 +103,18 @@ The website is structured using HTML5 semantics with sections dedicated to navig
 
 [validator results for CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://braunie999.github.io/BalancingBodyweight/
+The live link can be found here - <https://braunie999.github.io/BalancingBodyweight/>
 
-## Credits 
+## Credits
 
-- Website idea created and deployed with help in the following sections respectively. 
+- Website idea created and deployed with help in the following sections respectively.
   
 ### Content
 
@@ -123,6 +122,12 @@ The live link can be found here - https://braunie999.github.io/BalancingBodyweig
 - Instructions on how to implement form validation on the Sign Up page was taken from [Reading material on student portal.](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+5/courseware/e805068059af42af87681032aa64053f/fc8bba87c52a4d91b32d1c7c28b1d79b/)
 - The icons in the header and footer were taken from [Font Awesome](https://fontawesome.com/)
 
+### Media
+
+- Images used on home page all outsourced from open source site Pexel.
+- Images on gallery page as well as my Sign-up and thank-you pages have images from Pexels site.
+
+[open source site](https://www.pexels.com/)
 
 ## Technologies Used
 
