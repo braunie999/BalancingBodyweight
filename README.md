@@ -89,6 +89,16 @@ The website is structured using HTML5 semantics with sections dedicated to navig
 
 ## Testing
 
+### Manual testing
+
+| Feature being tested | Expected Outcome | Testing Performed | Actual Outcome | Result (Pass or fail)|
+| -------------------- | ---------------- | ----------------- | -------------- | --------------------- |
+| Header nav-toggle | Dropdown-menu | Yes | Nav toggle responsive | Pass |
+| Internal links | Move across pages | Yes | After click, desired content shows | Pass |
+| Responsive Footer | Social media links to open in new tab | Yes | Link opens in new tab | Pass |
+| Form validation | Required information needed | Yes | Does not allow sign-up without required data fields filled in | Pass |
+| Internal link on thank you page | Return to homepage | Yes | browser returns to homepage after clicking button | Pass
+
 ### HTML Validator
 
 - No errors were found when passing through the validator site [validator results for index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F)
@@ -101,7 +111,7 @@ The website is structured using HTML5 semantics with sections dedicated to navig
 
 ### CSS validator
 
-- [validator results for CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- No errors found [validator results for CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
 
