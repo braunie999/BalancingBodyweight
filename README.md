@@ -1,6 +1,6 @@
 # Balancing Bodyweight
 
-![Response Mockup](./assets/docs/buggedresponsive-display.png)
+![Response Mockup](./assets/docs/responsive.displays.png)
 
 ## Introduction
 
