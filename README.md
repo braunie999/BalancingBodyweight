@@ -101,6 +101,9 @@ The website is structured using HTML5 semantics with sections dedicated to navig
 
 ### CSS
 
+[validator results for CSS ](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbraunie999.github.io%2FBalancingBodyweight%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+
 ## Usage
 
 To view the website:

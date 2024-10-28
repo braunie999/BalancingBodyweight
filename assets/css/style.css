@@ -247,7 +247,6 @@ main {
   background-attachment: scroll;
 }
 #signup {
-  display: local;
   top: 20px;
   flex-grow: 1;
   max-width: 700px;
@@ -270,7 +269,7 @@ main {
 #signup > h2 {
   color: #f1f1f1;
   margin-bottom: 20px;
-  box-shadow: #454b1b;
+  box-shadow: #858968;
 }
 
 .text-input {
